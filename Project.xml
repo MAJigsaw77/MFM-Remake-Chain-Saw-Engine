@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Fnf: Mid Fight Masses" file="Funkin" packageName="com.funkin.chainsaw" package="com.funkin.chainsaw" main="Main" version="0.2.7.1" company="M.A. jigsaw" />
+	<app title="Fnf: Mid Fight Masses" file="Funkin" packageName="com.funkin.mfm" package="com.funkin.mfm" main="Main" version="0.2.7.1" company="M.A. jigsaw" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
